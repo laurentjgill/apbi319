@@ -1,0 +1,635 @@
+species,water_type,value,quantity
+[Rhopilema esculentum],Brackishwater,3341801.2,945658
+[Cladosiphon okamuranus],Brackishwater,519.4,1
+[Spirulina maxima],Brackishwater,0.1,2034
+[Mugil spp],Brackishwater,1422.09,316.07
+[Leporinus obtusidens],Freshwater,184.78,39.34
+[Carassius spp],Freshwater,56436554.47,34688453.99
+[Brycon cephalus],Freshwater,39198.47,1.39
+[Brycon melanopterus],Freshwater,2595.07,759.22
+[Brycon orbignyanus],Freshwater,1681.76,202.75
+[Hypsibarbus spp],Freshwater,6791.84,1548
+[Wallago spp],Freshwater,12.73,14742.38
+[Ichthyoelephas humeralis],Freshwater,0,4116.53
+[Haematococcus pluvialis],Freshwater,45907.23,0
+[Leporinus spp],Freshwater,74614.78,2103.88
+[Hoplias spp],Freshwater,7632.18,26983.25
+[Pimelodus spp],Freshwater,72.55,59516.66
+[Brycon hilarii],Freshwater,14695.7,5717
+[Brycon amazonicus],Freshwater,172153.29,27.76
+[Brycon spp],Freshwater,64270.36,2506
+[Cichla spp],Freshwater,9082.44,27065.79
+[Tetraselmis spp],Freshwater,36.54,1.45
+[Spirulina platensis],Freshwater,5642.53,13494.5
+[Spirulina maxima],Freshwater,41188.23,1390.42
+[Prochilodus mariae],Freshwater,3457.78,647.85
+[Anostomoides laticeps],Freshwater,20216.2,29994
+[Labeo dussumieri],Freshwater,787.08,672
+[Oreochromis tanganicae],Freshwater,18652.82,7186.5
+[Sargassum spp],Marine,1474.97,747
+[Meristotheca senegalense],Marine,54.01,300
+[Macrocystis integrifolia],Marine,7.61,1.24
+[Dunaliella salina],Marine,46.76,5
+[Solea spp],Marine,28.09,1.63
+[Capsosiphon fulvescens],Marine,161055.19,1
+[Porphyra columbina],Marine,2,54433
+[Chondracanthus chamissoi],Marine,265.27,176.65
+[Trochita spp],Marine,25,5
+[Oplegnathus fasciatus],Marine,49163.8,2876
+Aba,Freshwater,186194.2,80954
+Adriatic sturgeon,Freshwater,5789.6,377.77
+"Africa-bighead catfish, hybrid",Freshwater,2273804.66,1802879
+African bonytongue,Freshwater,154169.15,64832
+African catfish,Freshwater,9.75,3
+Akiami paste shrimp,Brackishwater,589.98,445
+Algerian barb,Freshwater,695.81,1324
+Amazon sailfin catfish,Freshwater,217.06,81.53
+American bull frog,Freshwater,137980.84,40331.62
+American cupped oyster,Brackishwater,1320.97,4477
+American cupped oyster,Marine,1492688.48,1552964.23
+American eel,Freshwater,0,0
+American yellow perch,Freshwater,6579.4,948
+Amur catfish,Freshwater,10426298.47,5344654.29
+Arapaima,Freshwater,159779.19,35710.34
+Arctic char,Brackishwater,353654.77,46989
+Arctic char,Freshwater,177465.6,24195.97
+Arctic char,Marine,34255.56,4272.83
+Areolate grouper,Marine,10871.13,654
+Argentinian silverside,Freshwater,0,0
+Asian clam,Freshwater,901636.47,485213.31
+Asian redtail catfish,Freshwater,229514.07,70282.88
+Asian swamp eel,Freshwater,16626798.23,4135080.56
+Asp,Freshwater,343.1,87.2
+Atipa,Brackishwater,1523.89,331.12
+Atipa,Freshwater,400.98,101.07
+Atl.jackknife(=Atl.razor clam),Marine,189.2,4.65
+Atlantic bluefin tuna,Marine,1394466.51,91283.06
+Atlantic cod,Marine,467516.18,137253.98
+Atlantic ditch shrimp,Brackishwater,3968.29,718.24
+Atlantic halibut,Marine,308880.01,26318.72
+Atlantic salmon,Brackishwater,448718.08,79795
+Atlantic salmon,Freshwater,606516,82773.51
+Atlantic salmon,Marine,163886152.8,28422186.38
+Atlantic spadefish,Marine,30.45,9.51
+Atlantic wolffish,Marine,0,0
+Australian mussel,Marine,120576.06,50184.01
+Ayu sweetfish,Freshwater,1121226.07,99229.23
+Babberlocks,Marine,887.73,378.17
+Bagrid catfish,Brackishwater,3055.46,746
+Bagrid catfish,Freshwater,0,0
+Baltic prawn,Brackishwater,15.6,3.9
+Banana prawn,Brackishwater,2430848.23,624126.07
+Banana prawn,Marine,168.98,14
+Banded astyanax,Freshwater,8311.35,3182.2
+Banded carpet shell,Marine,0,0
+Banded jewelfish,Freshwater,165.92,41.2
+Barbel,Freshwater,2596.8,1833.96
+Barcoo grunter,Freshwater,2026.96,297.36
+Barramundi(=Giant seaperch),Brackishwater,2767582.64,698995.59
+Barramundi(=Giant seaperch),Freshwater,493127.25,152973.64
+Barramundi(=Giant seaperch),Marine,751031.08,141955.28
+Barred sorubim,Freshwater,127.01,36.41
+Bastard halibut,Brackishwater,81.2,7
+Bastard halibut,Marine,7091047,685128
+Bayad,Freshwater,2469.36,1622
+Bear paw clam,Marine,99.16,21.56
+Beluga,Brackishwater,139.05,20.73
+Beluga,Freshwater,3885.6,429.82
+Big-scale sand smelt,Marine,18.68,5.52
+Bigeye trevally,Marine,16.11,3.31
+Bighead carp,Brackishwater,6.01,3
+Bighead carp,Freshwater,76647218.61,40035663.1
+Black ark,Marine,102,68
+Black bullhead,Brackishwater,25.81,3
+Black bullhead,Freshwater,14398.44,2166.62
+Black carp,Freshwater,25937476,7225900.3
+Black grouper,Marine,18.1,2.22
+Black prochilodus,Freshwater,17863.76,6376.01
+Black seabass,Brackishwater,0,0
+Blackbelt cichlid,Freshwater,2.2,0.5
+Blackchin tilapia,Brackishwater,3695.23,1679.9
+Blackhead seabream,Brackishwater,24269.44,5029.66
+Blackhead seabream,Freshwater,0,0
+Blackhead seabream,Marine,250325.28,24857
+Blacklip pearl oyster,Marine,45113.99,29919.33
+Blackspot(=red) seabream,Marine,25032.25,2632.23
+Bleak,Freshwater,105.85,104.42
+Blood cockle,Marine,11194361.47,6287190.86
+Blue crab,Brackishwater,0,0
+Blue mussel,Marine,5059916.01,2750119.32
+Blue shrimp,Brackishwater,333646.53,34366.05
+Blue shrimp,Marine,457.36,22.5
+Blue swimming crab,Brackishwater,401.86,33.53
+Blue swimming crab,Marine,2609.51,306.24
+Blue tilapia,Brackishwater,17244.84,5480
+Blue tilapia,Freshwater,189717.64,58315.04
+"Blue-Nile tilapia, hybrid",Freshwater,11295030.3,4903079
+Bluefish,Brackishwater,0,0
+Bluegill,Freshwater,1066,681.42
+Bluegill,Marine,0,0
+Bluespot mullet,Brackishwater,120,40
+Bluespotted seabream,Marine,1880.95,270
+Brill,Brackishwater,0,0
+Brine shrimp,Brackishwater,0,0
+Brine shrimp,Marine,0,0
+Broad geloina,Marine,203.65,180.46
+Bronze featherback,Freshwater,23266.41,8002.5
+Brook trout,Freshwater,110906.83,17509.55
+Brown meagre,Brackishwater,0,0
+Brown seaweeds,Marine,15337524.88,26903564.44
+Brown tiger prawn,Brackishwater,0,0
+Brown-marbled grouper,Brackishwater,89.33,4.79
+Brown-marbled grouper,Marine,9008.28,688.48
+Burbot,Freshwater,98.07,10.18
+Butter clam,Marine,24797.91,10031.39
+Cachama,Freshwater,3127166.27,1298095.88
+Caramote prawn,Brackishwater,64.48,3.69
+Caribbean spiny lobster,Marine,1054.35,45.52
+Catla,Freshwater,57119296.86,34118733.19
+Caulerpa seaweeds,Marine,30250.88,45776.36
+Channel catfish,Freshwater,11918901.61,6041216.34
+Chilean flat oyster,Marine,10091.79,3363.93
+Chilean mussel,Marine,21352911.73,3549201.16
+Chinese longsnout catfish,Freshwater,548613.87,278253
+Chinese mitten crab,Freshwater,99551030.68,9396748.84
+Chinese mystery snail,Freshwater,1663245.91,1420015
+Chinese pond mussel,Freshwater,700931.66,1221768
+Chinese softshell turtle,Freshwater,32465257.86,4070060.23
+Chinook(=Spring=King) salmon,Freshwater,143722.27,12419
+Chinook(=Spring=King) salmon,Marine,1595233.04,178497
+Cholga mussel,Marine,72624.84,25021.66
+Choro mussel,Marine,25177.39,12537.37
+Chub,Freshwater,211.59,22.77
+Chum(=Keta=Dog) salmon,Freshwater,42,7
+Chum(=Keta=Dog) salmon,Marine,0,0
+Clearhead icefish,Freshwater,465532.33,259132
+Climbing perch,Freshwater,852280.94,421439.25
+Clown knifefish,Freshwater,8205.51,2141.5
+Coarse seagrape,Marine,20,4
+Cobia,Brackishwater,27835.11,3980.33
+Cobia,Marine,1332306.15,560591.31
+Coho(=Silver) salmon,Freshwater,430211.22,80196.23
+Coho(=Silver) salmon,Marine,11736450.6,2192554.88
+Common carp,Brackishwater,0,0
+Common carp,Freshwater,93319967.1,52565007.17
+Common cuttlefish,Marine,4.48,0.63
+Common dentex,Marine,6184.29,708.29
+Common edible cockle,Brackishwater,30903.97,6934.12
+Common edible cockle,Marine,121281.43,34676.91
+Common nase,Freshwater,2.56,3.52
+Common pandora,Marine,6166.33,831.14
+Common prawn,Brackishwater,1901.41,361.91
+Common snook,Brackishwater,0,0
+Common snook,Marine,0,0
+Common sole,Brackishwater,176.17,21.71
+Common sole,Marine,13872.17,920.91
+Common two-banded seabream,Brackishwater,325.53,29.9
+Common two-banded seabream,Marine,0,0
+Constricted tagelus,Marine,14827509.9,10999852
+Convict grouper,Marine,58842.87,2407
+Corrugated venus,Brackishwater,26423.39,2089.5
+Corrugated venus,Marine,15546.74,1293.07
+Cortez oyster,Brackishwater,30346.63,36633.67
+Crevalle jack,Marine,85.55,6.02
+Crimson seabream,Marine,0,0
+Crimson snapper,Brackishwater,22.73,2.24
+Crimson snapper,Marine,2563.74,350.77
+Crocus giant clam,Marine,51.1,16.67
+Crucian carp,Freshwater,83067.33,39649.85
+Daggertooth pike conger,Marine,0,0
+Danube bleak,Freshwater,5.91,4.53
+Danube crayfish,Freshwater,12286.02,1924.3
+Danube sturgeon(=Osetr),Freshwater,95271.6,4048.17
+Dark green nori,Marine,48760.78,90354
+Diphos sanguin,Brackishwater,3186.56,603.91
+Diphos sanguin,Marine,689.08,208.4
+Donax clams,Marine,0,0
+Dorada,Freshwater,11149.69,4038
+Dorado,Freshwater,5437.29,867.54
+Dotted gizzard shad,Marine,44708.92,6884
+Duckbill catfish,Freshwater,0,0
+Dulse,Marine,11.58,9.5
+East Asian bullfrog,Freshwater,49968.05,28606
+Eastern king prawn,Brackishwater,0,0
+Eastern king prawn,Marine,0,0
+Eastern school shrimp,Brackishwater,0,0
+Elkhorn sea moss,Brackishwater,4412.47,6357.55
+Elkhorn sea moss,Marine,3917484.09,24927196.17
+Elongate giant clam,Marine,258.17,26.05
+Emperor red snapper,Marine,309.38,29.97
+European eel,Brackishwater,125590.27,10702.56
+European eel,Freshwater,986754.13,86414.88
+European eel,Marine,5019.04,352.94
+European flat oyster,Brackishwater,632.87,112.28
+European flat oyster,Marine,309236.18,46539.73
+European flounder,Brackishwater,18.8,4.7
+European flounder,Marine,85.49,8
+European green frog,Freshwater,800.48,40.22
+European perch,Freshwater,33572.16,6445.9
+European seabass,Brackishwater,1585752.88,303905.72
+European seabass,Freshwater,1067.28,300
+European seabass,Marine,11911052.2,2011445.31
+European whitefish,Brackishwater,4,1
+European whitefish,Freshwater,26500.68,3036.35
+European whitefish,Marine,84368.47,9312.1
+False abalone,Marine,186.63,22.5
+Flathead grey mullet,Brackishwater,127126.1,35179.18
+Flathead grey mullet,Freshwater,229242.39,56963.37
+Flathead grey mullet,Marine,28142.31,7080.91
+Flathead lobster,Marine,220.73,21
+Fleshy prawn,Brackishwater,3809662.38,644825
+Florida pompano,Marine,52404.3,6237.2
+Fluted giant clam,Marine,20.91,4.52
+Fourfinger threadfin,Brackishwater,413913.92,59799.54
+Fourfinger threadfin,Marine,9802.85,1369.78
+Fragile codium,Marine,19520.45,34563
+Freshwater bream,Freshwater,12910.11,6883.45
+Freshwater drum,Freshwater,12363.57,1833
+Freshwater mussel shells,Freshwater,220735.54,34464.75
+Frogs,Freshwater,9671692.29,1294851.42
+Fusiform sargassum,Marine,1826903.83,2557775
+Gasar cupped oyster,Brackishwater,140,280
+Gasar cupped oyster,Marine,5916.94,2181.43
+Gazami crab,Marine,0,0
+Gelidium seaweeds,Marine,0,0
+Giant clam,Marine,29.85,4.7
+Giant gourami,Freshwater,3631909.78,1507420.37
+Giant grouper,Brackishwater,62.8,2.94
+Giant grouper,Marine,1605.71,86.29
+Giant kelp,Marine,46.51,43.31
+Giant river prawn,Brackishwater,1306.79,88.45
+Giant river prawn,Freshwater,22588623.99,3271986.83
+Giant tiger prawn,Brackishwater,64988661.2,10348434.66
+Giant tiger prawn,Freshwater,365102.87,68307.27
+Giant tiger prawn,Marine,669.32,58.07
+Giant trevally,Marine,205.75,35.64
+Gilthead seabream,Brackishwater,2273961.18,393679.91
+Gilthead seabream,Freshwater,1776.93,300
+Gilthead seabream,Marine,11063664.58,2017779.16
+Globose clam,Marine,91.69,102
+Golden carpet shell,Marine,110.24,66.1
+Golden perch,Freshwater,112.85,10.06
+Golden trevally,Marine,969.38,156
+Golden trout,Freshwater,384,64
+Golden-lined spinefoot,Marine,44,5.28
+Goldfish,Freshwater,57308.66,25012.2
+Goldlined seabream,Marine,1799.74,219
+Goldsilk seabream,Marine,1.05,0.1
+Gracilaria seaweeds,Brackishwater,1089630.94,8615325.84
+Gracilaria seaweeds,Marine,15492531.7,30268716.38
+Grand ark,Marine,54,27
+Grass carp(=White amur),Brackishwater,0,0
+Grass carp(=White amur),Freshwater,130700474.6,69128939.01
+Grayling,Freshwater,292.48,28.6
+Greasy grouper,Brackishwater,69510.33,11036
+Greasy grouper,Marine,53744.44,3985
+Greasyback shrimp,Brackishwater,45121.9,6724.6
+Great Atlantic scallop,Marine,6913.23,929.23
+Great Mediterranean scallop,Marine,3.48,0.23
+Great blue spotted mudskipper,Brackishwater,1453.32,86.27
+Great blue spotted mudskipper,Freshwater,0,0
+Great snakehead,Freshwater,15876.32,9409
+Greater amberjack,Marine,3979.16,452.65
+Green crab,Marine,40.31,5.4
+Green humphead parrotfish,Marine,56.18,2.35
+Green laver,Marine,63103.33,76979
+Green mud crab,Brackishwater,6826495.54,1890512
+Green mussel,Brackishwater,24.84,2.2
+Green mussel,Marine,768014.81,2793238.14
+Green seaweeds,Brackishwater,488.06,450
+Green seaweeds,Freshwater,0,0
+Green seaweeds,Marine,1767.02,76.37
+Green terror,Freshwater,42.6,16
+Green tiger prawn,Brackishwater,2.6,0.4
+Green turtle,Brackishwater,0,0
+Grooved carpet shell,Brackishwater,184081.27,32178.59
+Grooved carpet shell,Marine,505210.52,40850.17
+Haddock,Marine,501,118
+Half-crenated ark,Marine,23707.66,12825
+Harpoon seaweeds,Marine,2.04,35.4
+"Hetero-Clarias catfish, hybrid",Freshwater,87548.29,34409.85
+Hong Kong catfish,Freshwater,0,0
+Hong Kong grouper,Marine,0,0
+Hooded oyster,Marine,676.51,70
+Horned turban,Marine,0,0
+Hoven's carp,Freshwater,276318.85,111469.48
+Huchen,Freshwater,2455.04,146.86
+Humpback grouper,Brackishwater,16.29,0.15
+Humpback grouper,Marine,1140.66,25.51
+Indian backwater oyster,Brackishwater,979.09,89.81
+Indian backwater oyster,Marine,49297.25,49010
+Indian white prawn,Brackishwater,1946471.64,246982.86
+Indo-Pacific swamp crab,Brackishwater,6328453.47,807481.44
+Indo-Pacific swamp crab,Marine,21912.65,2494.69
+Indonesian snakehead,Brackishwater,0,0
+Indonesian snakehead,Freshwater,1012876.72,319042.48
+Inflated ark,Marine,231788.97,43823
+Isok barb,Freshwater,93965.17,65261.2
+Jaguar guapote,Freshwater,23.52,10.1
+Japanese abalone,Marine,8714.46,156.46
+Japanese amberjack,Marine,16962015.7,2208919
+Japanese carpet shell,Brackishwater,2351552.37,520068.18
+Japanese carpet shell,Marine,72050697.54,52885180.08
+Japanese eel,Brackishwater,17174.54,1598.8
+Japanese eel,Freshwater,24203695.82,3638136.55
+Japanese hard clam,Brackishwater,1559922.18,750868.12
+Japanese hard clam,Marine,22653.85,14027.9
+Japanese isinglass,Marine,6680.14,12374
+Japanese jack mackerel,Marine,171588.56,18916
+Japanese kelp,Marine,45699812.05,123289947.3
+Japanese meagre,Brackishwater,3109.23,444.44
+Japanese meagre,Marine,1341.11,429
+Japanese sea cucumber,Marine,12077283.24,2177393
+Japanese seabass,Brackishwater,24821.54,8147.49
+Japanese seabass,Freshwater,132385.43,40759.25
+Japanese seabass,Marine,3551440.25,1820823.08
+Japanese seabream,Brackishwater,2.12,0.5
+Japanese seabream,Marine,736248.3,82686.8
+Japanese spiny lobster,Brackishwater,0,0
+Japanese spiny lobster,Marine,0,0
+John's snapper,Brackishwater,5.69,0.77
+John's snapper,Marine,318064.06,57472.13
+Kafue pike,Freshwater,92145,36858
+Kelee shad,Freshwater,3937.85,1787
+Kissing gourami,Freshwater,92099.16,72241.22
+Knifefishes,Freshwater,371.28,158.11
+Korean mussel,Marine,369267.61,903625
+Korean rockfish,Marine,2535200.94,362284
+Kuruma prawn,Brackishwater,5512937.94,754101.39
+Kuruma prawn,Marine,591.2,20
+Kutum,Freshwater,6.7,2
+Large yellow croaker,Marine,3241968.25,1693402
+Largemouth black bass,Brackishwater,325.55,98.87
+Largemouth black bass,Freshwater,10082719.63,4053239.68
+Laver (Nori),Marine,17523763.48,10108898.58
+Lebranche mullet,Brackishwater,345.4,165.06
+Long-finned charr,Freshwater,216.56,103.39
+Longfin tilapia,Freshwater,52416.46,17742.9
+Longfin yellowtail,Marine,30894,5234
+Longrayed whiptail,Marine,0,0
+Magdalena River prochilodus,Freshwater,13266.87,4903
+Malabar blood snapper,Marine,7.28,1.1
+Malabar grouper,Brackishwater,384.64,23.67
+Malabar grouper,Marine,17387.87,1253.12
+Malabar trevally,Marine,3896.8,387
+Mandarin fish,Freshwater,54684482.63,3879348
+Mango tilapia,Freshwater,409.2,154
+Mangrove cupped oyster,Brackishwater,0,0
+Mangrove cupped oyster,Marine,18720.5,18720.5
+Mangrove red snapper,Brackishwater,3.96,0.6
+Mangrove red snapper,Marine,581357.61,97613.02
+Manipur osteobrama,Freshwater,251635.96,60327
+Marble goby,Brackishwater,283.29,15
+Marble goby,Freshwater,108295.95,15611.89
+Marbled spinefoot,Marine,160.61,13.4
+Masu(=Cherry) salmon,Freshwater,3035.05,541.7
+Masu(=Cherry) salmon,Marine,0,0
+Meagre,Brackishwater,486906.15,149753.54
+Meagre,Marine,354894.5,57387.78
+Mediterranean mussel,Brackishwater,33104.66,24854.81
+Mediterranean mussel,Marine,1588351.29,1555719.22
+Mediterranean shore crab,Brackishwater,271.25,315.2
+Mi-iuy (brown) croaker,Marine,22617.97,2386.5
+Milkfish,Brackishwater,16894540.4,11539379.92
+Milkfish,Freshwater,2050425.85,1256172.48
+Milkfish,Marine,3098834.95,1516399.48
+Mississippi paddlefish,Freshwater,1011.39,255
+Monkey river prawn,Freshwater,24.24,2.51
+Monsoon river prawn,Freshwater,34700.4,13290
+Mottled spinefoot,Marine,13,2
+Mozambique tilapia,Brackishwater,370337.32,377708.19
+Mozambique tilapia,Freshwater,329500.4,270574.15
+Mozambique tilapia,Marine,2602.8,1018.52
+Mrigal carp,Freshwater,9775974.45,6274928.97
+Mud carp,Freshwater,76446.68,52618.65
+Mud spiny lobster,Brackishwater,6883.6,166.18
+Mud spiny lobster,Marine,13633.04,317.16
+Mudfish,Freshwater,0,0
+Murray cod,Freshwater,9824.74,780.36
+Naked catfishes,Freshwater,0,0
+Netted prochilod,Freshwater,100468.05,36273
+New Zealand mussel,Marine,5353729.59,1400562
+Nile perch,Brackishwater,71.09,27
+Nile perch,Freshwater,434426.69,180953.2
+Nile tilapia,Brackishwater,13372951.41,9443678.76
+Nile tilapia,Freshwater,75509649.54,38459031.67
+Nilem carp,Freshwater,627452.45,373352.59
+Ningu,Freshwater,2.54,1.5
+Noble crayfish,Freshwater,1505.33,64.66
+North African catfish,Brackishwater,90621.51,73474
+North African catfish,Freshwater,7632877.43,2743431.81
+Northern pike,Freshwater,53489.02,13629.5
+Northern quahog(=Hard clam),Marine,960813.99,410011.59
+Northern white shrimp,Brackishwater,0,0
+Obscure pufferfish,Freshwater,169646.05,66140
+Okhotsk atka mackerel,Marine,169.33,17
+Olive barb,Freshwater,104255.73,55248
+Olive green cockle,Brackishwater,0.93,0.21
+Olive green cockle,Marine,0.12,0.1
+Olympia oyster,Marine,267.13,45
+Orange mud crab,Brackishwater,739513.38,126984.53
+Orange-spotted grouper,Brackishwater,565.24,9.93
+Orange-spotted grouper,Marine,50887.48,5029.46
+Orangefin labeo,Freshwater,811777.6,373319
+Orbicular batfish,Marine,2476,157.9
+Orfe(=Ide),Freshwater,33.06,3.92
+Oriental cyclina,Marine,6273.43,1380
+Oriental river prawn,Freshwater,22958080.56,3266891
+Pacific asaphis,Marine,7.5,2.5
+Pacific bluefin tuna,Marine,3578099.59,189282.98
+Pacific calico scallop,Marine,0.65,0.25
+Pacific chub mackerel,Marine,34457.33,3065
+Pacific cupped oyster,Brackishwater,48178.62,12194.15
+Pacific cupped oyster,Marine,18022923.71,9552971.33
+Pacific fat sleeper,Freshwater,17412.41,6115.9
+Pacific geoduck,Marine,310050.72,10513.62
+Pacific horse clam,Marine,24.57,19
+Pacific lion's paw,Marine,413.17,111
+Pacific littleneck clam,Marine,1466.25,477.62
+Pacu,Freshwater,725158.5,231847.77
+Paintpot cuttlefish,Brackishwater,117,13
+Pangas catfish,Freshwater,468101.51,222813.05
+Papuan black snapper,Marine,268.04,41
+Peacock cichlid,Freshwater,0.03,0.01
+Peled,Freshwater,271.15,482.11
+Penguin wing oyster,Freshwater,22503.6,2961
+Penguin wing oyster,Marine,304299.1,479604.28
+Peppery furrow,Marine,32.25,14.6
+Perlemoen abalone,Marine,626850.17,17738.18
+Peruvian calico scallop,Marine,5881321.16,609015.57
+Philippine catfish,Freshwater,453423.08,82119.77
+Pike-perch,Freshwater,92333.27,16828.66
+Pink dentex,Marine,5145.63,469
+Pink(=Humpback) salmon,Marine,408,68
+Pirapatinga,Freshwater,4639271.73,2441991.49
+Pod razor shell,Brackishwater,1848.72,63.42
+Pollack,Marine,234.03,56.42
+Pompano,Marine,9028524,1373000
+Pond loach,Freshwater,7808319.09,3784837.25
+Pond smelt,Freshwater,329992.82,181402
+Potato grouper,Marine,17.71,1.14
+Purple dye murex,Marine,13.82,0.9
+Queen conch,Marine,118.8,13.2
+Queen scallop,Marine,769.68,223.18
+Rainbow abalone,Marine,26749.81,894.35
+Rainbow trout,Brackishwater,58465.11,14806.2
+Rainbow trout,Freshwater,29154294.07,7847537.69
+Rainbow trout,Marine,21536780.21,3641303.73
+Red abalone,Marine,844918.66,13960.24
+Red bait,Marine,0,0
+Red claw crayfish,Freshwater,30215.02,3150.5
+Red drum,Brackishwater,21591.76,4674
+Red drum,Marine,1844118.53,917731.54
+Red oyas,Marine,176022.67,164821
+Red porgy,Marine,95073.98,13127.1
+Red seaweeds,Marine,2750.95,58394.06
+Red swamp crawfish,Brackishwater,142.33,19.57
+Red swamp crawfish,Freshwater,83755944.87,11114367.73
+Redbanded seabream,Marine,513.39,67
+Redbelly tilapia,Freshwater,1600.28,722
+Redbreast tilapia,Freshwater,68955.95,23637.73
+Redtail prawn,Brackishwater,610.62,102.65
+Reticulate knifefish,Freshwater,182512.8,101396
+Ripon barbel,Freshwater,2.01,1.2
+River Plata mussel,Marine,1306.7,528.72
+Roach,Freshwater,76600.65,25700.29
+Roho labeo,Freshwater,37886175.63,23701662.69
+Rooster venus,Marine,0,0
+Rough turban,Marine,30,10
+Rudd,Freshwater,472.7,574.73
+Russell's snapper,Marine,2206.97,278
+Sabaki tilapia,Brackishwater,20888.4,4144.5
+Sampa,Freshwater,363.53,88
+Sand gaper,Marine,6211.47,8900.56
+Sandfish,Brackishwater,3042.9,934
+Sandfish,Marine,10699.74,1438.86
+Sawtooth caridina,Freshwater,9287.73,422
+Scats,Brackishwater,0,0
+Sea belt,Marine,2351.51,961
+Sea snails,Marine,3013842.82,3361902
+Sea trout,Brackishwater,7895.2,796
+Sea trout,Freshwater,358813.34,51035.1
+Sea trout,Marine,15454.61,2050.1
+Senegalese sole,Brackishwater,29397.66,2835.35
+Senegalese sole,Marine,66503.88,5338.09
+Sevan trout,Freshwater,115,23
+Sharpsnout seabream,Marine,18432.83,2428.7
+Shi drum,Marine,31976.24,4367.5
+Short-finned eel,Brackishwater,3598.7,262
+Siberian sturgeon,Freshwater,74553.98,4016.51
+Sichel,Freshwater,14.5,5.8
+Signal crayfish,Freshwater,21.11,1.64
+Silver barb,Brackishwater,3357.7,4330
+Silver barb,Freshwater,3020505.13,2390518.15
+Silver carp,Brackishwater,0,0
+Silver carp,Freshwater,113690226.2,63276436.94
+Silver perch,Freshwater,72811.23,14392.46
+Silver seabream,Brackishwater,0,0
+Silver seabream,Marine,7444403.69,977310
+Sixfinger threadfin,Marine,126.63,16.08
+Slender wart weed,Marine,55.05,483.21
+Slipper cupped oyster,Marine,65347.92,330626.34
+Small scale mud carp,Freshwater,114312.92,79348.4
+Smooth giant clam,Marine,162.23,50.19
+Smooth mactra,Marine,0,0
+Smooth marron crayfish,Freshwater,25438.91,1033.72
+Snakehead,Freshwater,11068299.31,5960019
+Snakeskin gourami,Freshwater,884906.11,517649.97
+Snubnose pompano,Brackishwater,43.91,4.3
+Snubnose pompano,Marine,54239.32,11141.79
+So-iuy mullet,Brackishwater,14749.54,5672.9
+Sobaity seabream,Marine,18003.83,2793.83
+Sockeye(=Red) salmon,Marine,0,0
+South American catfish,Freshwater,14986.58,5108.15
+South American rock mussel,Marine,276597.17,228299.54
+Southern Australia scallop,Marine,0,0
+Southern bluefin tuna,Marine,1402238.86,98164.16
+Southern red snapper,Marine,6.67,1.2
+Southern white shrimp,Brackishwater,0,0
+Speckled longfin eel,Freshwater,1874.72,155.13
+Speckled shrimp,Brackishwater,272933.01,77286
+Spinous spider crab,Marine,70.54,2.48
+Spiny eucheuma,Marine,107662.05,3273858.83
+Spotted coralgrouper,Brackishwater,2546.88,66.68
+Spotted coralgrouper,Marine,5054.34,179.36
+Spotted rose snapper,Marine,14892,3339
+Spotted seabass,Brackishwater,13.84,3.25
+Spotted seabass,Marine,13.83,4.15
+Spotted snakehead,Freshwater,19585.89,9951
+Spotted sorubim,Freshwater,35200.19,11473
+Spotted wolffish,Marine,0,0
+Squaretail mullet,Brackishwater,232.34,115
+Starry sturgeon,Brackishwater,11.06,1.67
+Starry sturgeon,Freshwater,346.09,51.28
+Sterlet sturgeon,Freshwater,3081.66,363.37
+Stinging catfish,Freshwater,393700.07,77635.76
+Stony sea urchin,Marine,60.37,4
+Streaked prochilod,Freshwater,52108.04,22179.71
+Streaked spinefoot,Marine,8.12,2
+Streamer fish,Freshwater,3361.62,140.06
+Striped bass,Brackishwater,2861.96,743.57
+Striped bass,Freshwater,1975.14,516.05
+Striped bass,Marine,2924.62,600
+"Striped bass, hybrid",Freshwater,527767.1,71926.37
+"Striped bass, hybrid",Marine,42.31,7.05
+Striped catfish,Freshwater,40489234.16,26232126.78
+Striped snakehead,Freshwater,2027943.79,467313.47
+Striped venus,Marine,0,0
+Suckermouth catfish,Freshwater,301.7,94
+Sydney cupped oyster,Marine,0,0
+"Tambacu, hybrid",Freshwater,865869.33,390576.68
+"Tambatinga, hybrid",Freshwater,298582.18,122170.36
+Tangle,Marine,2.75,4
+Tarpon,Marine,6.09,2
+Tench,Freshwater,68564.96,19429.12
+Thai mahseer,Freshwater,4079.34,121.89
+Thinlip grey mullet,Brackishwater,0,0
+Three spotted tilapia,Freshwater,131075.95,44427.35
+Three-spined stickleback,Freshwater,344,86
+Tiger pufferfish,Marine,1811873.46,328823
+"Tiger-dragon grouper, hybrid",Marine,92564.54,8701.29
+Tilapia shiranus,Freshwater,106603,26042.24
+Tinfoil barb,Freshwater,2298.67,783.69
+Trahira,Freshwater,18015.13,7352.12
+Trumpet emperor,Marine,9667.42,692.7
+Tuberculate abalone,Marine,919.53,61.27
+Turbot,Brackishwater,48125.23,4526.89
+Turbot,Marine,8403021.44,1007014.06
+Two-spot red snapper,Brackishwater,26.12,4
+Twobar seabream,Marine,26640,6660
+Unicell. chlorella green alga,Freshwater,58.12,18.5
+Upsidedown catfishes,Freshwater,135417.1,58877
+Variegated scallop,Marine,78.99,4.21
+Vatani rohtee,Freshwater,8012.5,13206.6
+Velvety cichlids,Freshwater,2.43,0.73
+Vimba bream,Freshwater,0.05,0.04
+Waigieu seaperch,Brackishwater,2827.62,908
+Waigieu seaperch,Freshwater,15558.38,5586
+Wakame,Marine,18708824.56,30712987.79
+Wallago,Freshwater,38852.37,11170
+Warty gracilaria,Brackishwater,21117.43,49673.82
+Warty gracilaria,Marine,128.76,69
+Warty venus,Marine,227.24,9.91
+Wels(=Som) catfish,Freshwater,108681.1,23694.49
+White bream,Freshwater,244.31,92.2
+White crappie,Freshwater,2399.67,1317
+White seabream,Brackishwater,326.23,65.66
+White seabream,Marine,3840.14,540.61
+White sturgeon,Freshwater,8221.52,430
+White trevally,Marine,673011.01,50649
+White-spotted spinefoot,Marine,54.27,8.28
+Whiteleg shrimp,Brackishwater,203495818.1,40653606
+Whiteleg shrimp,Freshwater,65358990.23,8912992.21
+Whiteleg shrimp,Marine,1337.47,56.78
+Whitemouth croaker,Brackishwater,81.65,60.93
+Wuchang bream,Freshwater,24836396.17,10046826
+Yabby crayfish,Freshwater,12269.37,876.27
+Yellow catfish,Freshwater,8619364.26,4042383
+Yellow-belly bream,Freshwater,0,0
+Yellowback seabream,Marine,0,0
+Yellowfin seabream,Marine,0,0
+Yellowfin tuna,Marine,44240.69,4714.4
+Yellowtail amberjack,Brackishwater,8180.1,660.76
+Yesso scallop,Marine,6096534.57,2994867
+,,2275933159,1026361780
+,,,0
