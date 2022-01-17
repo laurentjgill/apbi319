@@ -7,9 +7,11 @@ library(here)
 library(ggplot2)
 library(tidyverse)
 library(cowplot)
+#For all data sheets - species that were not really a species were removed... for example brown algaes were removed.
 
-###comparing the development of aquaculture by 
-###environment (i.e. marine vs brackish vs freshwater) in the last 15 years
+
+#Question 1
+###comparing the development of aquaculture by environment (i.e. marine vs brackish vs freshwater) in the last 15 years
 quantity <- read.csv(here("quantity_watertype.csv"))
 quantitygraph <- ggplot(quantity, aes(x = year, y = tons, colour = water_type))+
   geom_point()+
@@ -31,6 +33,7 @@ valuegraph
 
 
 ##Question 2
+#top 10 species (in terms of weight and value) farmed in each environment
 
 species <- read_csv(here("question2.csv"))
 
